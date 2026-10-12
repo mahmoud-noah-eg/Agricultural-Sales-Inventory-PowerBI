@@ -137,15 +137,13 @@ The data quality checks performed on the dataset found:
 
 These checks support the consistency of the supplied dataset, although they do not independently verify the accuracy of the original business records.
 
-## 📂 Project Deliverables
-
-- Power BI dashboard (`.pbix`)
-- Dashboard preview image (`dashboard.png`)
-- Project documentation (`README.md`)
 
 ## 👨‍💻 Author
 
 **Mahmoud Noah**
+
+- LinkedIn: www.linkedin.com/in/mahmoud-noah
+- GitHub: https://github.com/mahmoud-noah-eg
 
 This project demonstrates practical skills in business intelligence, data analysis, DAX, and interactive dashboard design using Microsoft Power BI.
 
